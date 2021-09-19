@@ -7,7 +7,7 @@ Sentiment analysis refers to identifying as well as classifying the sentiments t
 ## Getting Started 
 The project requires authentication via the Twitter API. A new application needs to be created to get the necessary keys. A few libraries also need to be installed for the script to run properly.
 
-## Problem Statement
+## Problem faced
 Due to the presence of non-useful characters (collectively termed as the noise) along with useful data, it becomes difficult to implement models on them. I aimed to analyze the sentiment of the tweets provided, by developing a machine learning pipeline.
 In this project, I tried to implement a Twitter sentiment analysis model that helps to overcome the challenges of identifying the sentiments of the tweets. 
 
@@ -25,7 +25,7 @@ In this project, I tried to implement a Twitter sentiment analysis model that he
 The dataset provided consists of 7000 tweets that have been extracted using the Twitter API.
 
 ## Sample output 
-[Output](https://github.com/darpankhanna/Twitter_Sentiment-Analyzer/blob/main/sentiment_analysis%20_result.png)
+<img src="/https://github.com/darpankhanna/Twitter_Sentiment-Analyzer/blob/main/sentiment_analysis%20_result.png" width="200"/>
 
 
 
