@@ -25,7 +25,7 @@ In this project, I tried to implement a Twitter sentiment analysis model that he
 The dataset provided consists of 7000 tweets that have been extracted using the Twitter API.
 
 ## Sample output 
-<img src="/C:\Users\darpa\Downloads\sentiment_analysis _result.png" alt="" width="200"/>
+<img src="https://github.com/darpankhanna/Twitter_Sentiment-Analyzer/blob/main/sentiment_analysis%20_result.png" alt="" width="300" />
 
 
 
