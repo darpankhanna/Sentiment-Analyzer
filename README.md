@@ -25,6 +25,6 @@ Due to the presence of non-useful characters (collectively termed as the noise) 
 In this project, I tried to implement a Twitter sentiment analysis model that helps to overcome the challenges of identifying the sentiments of the tweets. 
 
 ## Sample output 
-![]("C:\Users\darpa\Downloads\sentiment_analysis _result.png")
+![Output]("C:\Users\darpa\Downloads\sentiment_analysis _result.png")
 
 
