@@ -22,7 +22,7 @@ The project requires authentication via the Twitter API. A new application needs
 * [Tweepy](https://www.tweepy.org/) , the official Python library for accessing the Twitter API 
 * [TextBlob](https://textblob.readthedocs.io/en/dev/) , a Python library for processing textual data 
 * [NTLK dataset](https://www.nltk.org/) , to help better natural language processing 
-* Keys from the [Twitter Developer Application Management site] (https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJyZWRpcmVjdF9hZnRlcl9sb2dpbiI6Imh0dHBzOi8vZGV2ZWxvcGVyLnR3aXR0ZXIuY29tL2FwcHMifQ%3D%3D%22%7D)
+* Keys from the [Twitter Developer Application Management site](https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJyZWRpcmVjdF9hZnRlcl9sb2dpbiI6Imh0dHBzOi8vZGV2ZWxvcGVyLnR3aXR0ZXIuY29tL2FwcHMifQ%3D%3D%22%7D)
    * Consumer key 
    * Consumer secret 
    * Access token 
